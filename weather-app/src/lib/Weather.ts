@@ -1,7 +1,7 @@
 import type { Day } from "./interfaces";
 import { getWeatherIcon } from "./weatherHelpers";
 
-const apiKey = "abd4126e532e4dce6a7362ced27f04e8";
+const apiKey = "api-key-here";
 
 const locale = "de-CH";
 const numDecimals = 0;
